@@ -1,4 +1,4 @@
-# testapp1
+# wechat
 
 ## Project setup
 ```
